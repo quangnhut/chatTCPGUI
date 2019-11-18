@@ -1,0 +1,10 @@
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\bin\Debug\simplechatapp.exe.config
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\bin\Debug\simplechatapp.exe
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\bin\Debug\simplechatapp.pdb
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.csprojAssemblyReference.cache
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.Form1.resources
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.Properties.Resources.resources
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.csproj.GenerateResource.cache
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.csproj.CoreCompileInputs.cache
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.exe
+E:\CNTT\LapTrinhMang\simplechatapp\simplechatapp\obj\Debug\simplechatapp.pdb
